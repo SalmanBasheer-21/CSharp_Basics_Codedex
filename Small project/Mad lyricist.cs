@@ -1,7 +1,7 @@
 using System;
 class Madlyricist
 {
-    static void MadLyricist(){
+    static void main(){
         Console.WriteLine("Welcome to MAD Lyricist ");
         Console.WriteLine("Enter a noun : ");
         string input = Console.ReadLine();
